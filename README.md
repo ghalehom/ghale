@@ -1,4 +1,4 @@
 # ghale
 This is my first repository.
 <br>
-Author-ghalehom
+Author-ghalehom (learning github)
